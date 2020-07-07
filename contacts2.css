@@ -1,0 +1,130 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+.list li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 38px;
+    margin-left: 38px;
+}
+header {
+    background-color: rgb(14, 2, 36);
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 44px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+header .logo {
+    width: 35px;
+    display: block;
+    margin-bottom: 4px;
+}
+.first img{
+    margin-top: 20px;
+    width: 125px;
+}
+.second h1{
+    display: block;
+}
+.second p{
+    display: block;
+}
+.first {
+    display: inline-block;
+    margin-top: 20px;
+}
+.second {
+    display: inline-block;
+    margin-left: 15px;
+}
+.section {
+    background: url("wood.jpg");
+    background-size: 1500px;
+    color: whitesmoke;
+}
+.contacts img {
+    width: 35px;
+}
+.contacts p{
+    display: inline-block;
+    margin-left: 14px;
+}
+.contacts h1{
+    font-size: 50px;
+    margin-left: 20px;
+}
+.a {
+ display: inline-block;  
+}
+.b {
+    display: inline-block;  
+}
+.c {
+    display: inline-block;  
+}
+.a, .b, .c {
+    opacity: 50%;
+}
+.a:hover{
+    transition: 1s;
+    opacity: 100%;
+}
+.b:hover{
+    transition: 1s;
+    opacity: 100%;
+}
+.c:hover{
+    transition: 1s;
+    opacity: 100%;
+}
+h2 {
+    font-size: 40px;
+    margin-left: 20px;
+}
+.firsttry {
+    text-align: center;
+    float: right;
+    padding-right: 20px;
+}
+.contacts {
+    display: inline-block;
+}
+.one {
+    font-size: 18px;
+}
+.godhelp {
+    font-size: 19px;
+}
+.firsttry h1 {
+    font-size: 50px;
+}
+.firsttry button{
+    font-weight: 500;
+    font-size: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+    letter-spacing: -0.44px;
+    line-height: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background: grey;
+    border-radius: 4px;
+    border: none;
+    box-shadow: none;
+    margin-top: 10px;
+}
+.contacts a {
+    color: black;
+}

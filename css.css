@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+.list li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 38px;
+    margin-left: 38px;
+}
+header {
+    background-color: rgb(14, 2, 36);
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 44px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+header .logo {
+    width: 35px;
+    display: block;
+    margin-bottom: 4px;
+}
+.first img{
+    margin-top: 20px;
+    width: 125px;
+}
+.second h1{
+    display: block;
+}
+.second p{
+    display: block;
+}
+.description {
+    margin-top: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+.description img {
+    width: 120px;
+}
+
+.description ul {
+    font-size: 36px;
+    text-decoration: none;
+}
+.first {
+    display: inline-block;
+    margin-top: 20px;
+}
+.second {
+    display: inline-block;
+    margin-left: 15px;
+}
+.section {
+    background: url("wood.jpg");
+    background-size: 1500px;
+    color: whitesmoke;
+}
+
+h2{
+    font-size: 40px;
+    margin-left: 20px;
+}
